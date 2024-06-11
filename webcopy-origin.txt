@@ -1,0 +1,124 @@
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV37Nv7g.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV37Nv7g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV77Nv7g.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJV77Nv7g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Ng.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Ng.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVP7Nv7g.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVP7Nv7g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVT7Nv7g.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVT7Nv7g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVz7Nv7g.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\firacode\v21\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVz7Nv7g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZBhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZBhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZNhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZNhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZthiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZthiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZxhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZxhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhiI2B.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v3/NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2
+File Name: C:\Downloaded Web Sites\luminous.framer.website\s\intertight\v3\NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://luminous.framer.website/
+File Name: C:\Downloaded Web Sites\luminous.framer.website\index.htm
+Content Type: text/html
+
+Uri: https://luminous.framer.website/about
+File Name: C:\Downloaded Web Sites\luminous.framer.website\about.html
+Content Type: text/html
+
+Uri: https://luminous.framer.website/contact
+File Name: C:\Downloaded Web Sites\luminous.framer.website\contact.html
+Content Type: text/html
+
+Uri: https://luminous.framer.website/policy
+File Name: C:\Downloaded Web Sites\luminous.framer.website\policy.html
+Content Type: text/html
+
